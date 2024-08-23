@@ -1,16 +1,21 @@
-## Hi there 👋
+<img src="https://img.shields.io/badge/HTML-151515?style=for-the-badge&logo=html5&logoColor=#E34F26" />
 
-<!--
-**APCHNK/APCHNK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://img.shields.io/badge/НАДПИСЬ НА БЕЙДЖЕ-ЦВЕТ ФОНА?style=for-the-badge&logo=НАЗВАНИЕ ЛОГОТИПА&logoColor=ЦВЕТ ЛОГОТИПА" />
 
-Here are some ideas to get you started:
+<img src="https://img.shields.io/badge/НАДПИСЬ НА БЕЙДЖЕ-ЦВЕТ ФОНА?style=for-the-badge&logo=НАЗВАНИЕ ЛОГОТИПА&logoColor=ЦВЕТ ЛОГОТИПА" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://img.shields.io/badge/НАДПИСЬ НА БЕЙДЖЕ-ЦВЕТ ФОНА?style=for-the-badge&logo=НАЗВАНИЕ ЛОГОТИПА&logoColor=ЦВЕТ ЛОГОТИПА" />
+
+<img src="https://img.shields.io/badge/НАДПИСЬ НА БЕЙДЖЕ-ЦВЕТ ФОНА?style=for-the-badge&logo=НАЗВАНИЕ ЛОГОТИПА&logoColor=ЦВЕТ ЛОГОТИПА" />
+
+<img src="https://img.shields.io/badge/НАДПИСЬ НА БЕЙДЖЕ-ЦВЕТ ФОНА?style=for-the-badge&logo=НАЗВАНИЕ ЛОГОТИПА&logoColor=ЦВЕТ ЛОГОТИПА" />
+
+
+
+<img src="https://img.shields.io/badge/HTML- <цвет фона> ?style=for-the-badge&logo= <название логотипа> &logoColor= <цвет логотипа>" />
+<img src="https://img.shields.io/badge/HTML- <цвет фона> ?style=for-the-badge&logo= <название логотипа> &logoColor= <цвет логотипа>" />
+<img src="https://img.shields.io/badge/HTML- <цвет фона> ?style=for-the-badge&logo= <название логотипа> &logoColor= <цвет логотипа>" />
+<img src="https://img.shields.io/badge/HTML- <цвет фона> ?style=for-the-badge&logo= <название логотипа> &logoColor= <цвет логотипа>" />
+<img src="https://img.shields.io/badge/HTML- <цвет фона> ?style=for-the-badge&logo= <название логотипа> &logoColor= <цвет логотипа>" />
+<img src="https://img.shields.io/badge/HTML- <цвет фона> ?style=for-the-badge&logo= <название логотипа> &logoColor= <цвет логотипа>" />
+<img src="https://img.shields.io/badge/HTML- <цвет фона> ?style=for-the-badge&logo= <название логотипа> &logoColor= <цвет логотипа>" />
