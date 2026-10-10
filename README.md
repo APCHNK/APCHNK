@@ -46,6 +46,6 @@ Currently **Senior Frontend Developer at Savellab**, leading frontend decisions 
 ## 📫 Contact
 
 [![Email](https://img.shields.io/badge/Email-151515?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:apchnk@outlook.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-151515?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/andrii-pochynok-421b4a312/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-151515?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/apchnk/)
 
 📍 Lublin, Poland · Open to full-time and part-time roles
